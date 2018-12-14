@@ -12,6 +12,7 @@
 		1EBA95B721C34F3200FBC5B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA95B521C34F3200FBC5B3 /* Main.storyboard */; };
 		1EBA95B921C34F3400FBC5B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA95B821C34F3400FBC5B3 /* Assets.xcassets */; };
 		1EBA95BC21C34F3400FBC5B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EBA95BA21C34F3400FBC5B3 /* LaunchScreen.storyboard */; };
+		1EBA95C421C350FB00FBC5B3 /* colorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EBA95C321C350FB00FBC5B3 /* colorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1EBA95B821C34F3400FBC5B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EBA95BB21C34F3400FBC5B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1EBA95BD21C34F3400FBC5B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EBA95C321C350FB00FBC5B3 /* colorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				1EBA95B121C34F3200FBC5B3 /* AppDelegate.swift */,
 				1EBA95B321C34F3200FBC5B3 /* ViewController.swift */,
 				1EBA95B521C34F3200FBC5B3 /* Main.storyboard */,
+				1EBA95C321C350FB00FBC5B3 /* colorViewController.swift */,
 				1EBA95B821C34F3400FBC5B3 /* Assets.xcassets */,
 				1EBA95BA21C34F3400FBC5B3 /* LaunchScreen.storyboard */,
 				1EBA95BD21C34F3400FBC5B3 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1EBA95C421C350FB00FBC5B3 /* colorViewController.swift in Sources */,
 				1EBA95B421C34F3200FBC5B3 /* ViewController.swift in Sources */,
 				1EBA95B221C34F3200FBC5B3 /* AppDelegate.swift in Sources */,
 			);
